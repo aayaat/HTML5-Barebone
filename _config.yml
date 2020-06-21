@@ -1,0 +1,22 @@
+# Site settings
+title: HTML5 Barebone
+description: "A simple barebone html elements for testing UI"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: 
+
+permalink: pretty
+
+author: Ayaat
+type: website
+image: 
+
+# Markdown Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+
+# Collections Settings
+collections:
+  elements:
+    output: false
